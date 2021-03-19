@@ -48,12 +48,12 @@ def bubble_sort(arr):
 
 
 quick_start_time= time.time()
-print(quick_sort(sample_two))
+print(quick_sort(sample_three))
 quick_end_time = time.time()
 
 
 bubble_start_time = time.time()
-print(bubble_sort(sample_two))
+print(bubble_sort(sample_three))
 bubble_end_time = time.time()
 
 
